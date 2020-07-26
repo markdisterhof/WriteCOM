@@ -1,0 +1,3 @@
+/run/media/mark/Acer/Users/markd/Documents/Rider/WriteCOM/WriteCOM/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttribute.cs
+/run/media/mark/Acer/Users/markd/Documents/Rider/WriteCOM/WriteCOM/obj/Debug/WriteCOM.exe
+/run/media/mark/Acer/Users/markd/Documents/Rider/WriteCOM/WriteCOM/obj/Debug/WriteCOM.pdb

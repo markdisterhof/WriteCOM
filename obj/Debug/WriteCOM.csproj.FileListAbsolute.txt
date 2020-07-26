@@ -1,0 +1,6 @@
+C:\Users\markd\Documents\Rider\WriteCOM\WriteCOM\bin\Debug\WriteCOM.exe
+C:\Users\markd\Documents\Rider\WriteCOM\WriteCOM\bin\Debug\WriteCOM.pdb
+C:\Users\markd\Documents\Rider\WriteCOM\WriteCOM\obj\Debug\WriteCOM.csprojAssemblyReference.cache
+C:\Users\markd\Documents\Rider\WriteCOM\WriteCOM\obj\Debug\WriteCOM.csproj.CoreCompileInputs.cache
+C:\Users\markd\Documents\Rider\WriteCOM\WriteCOM\obj\Debug\WriteCOM.exe
+C:\Users\markd\Documents\Rider\WriteCOM\WriteCOM\obj\Debug\WriteCOM.pdb
